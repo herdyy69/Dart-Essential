@@ -20,7 +20,7 @@ dart pub get
 #### Run the Main Application
 
 ```bash
-dart run bin/dart_101.dart
+dart run bin/dart_essential.dart
 ```
 
 #### Run Individual Examples
@@ -61,7 +61,7 @@ dart run lib/imports/import.dart
 ```
 dart_essential/
 ├── bin/                    # Main application entry point
-│   └── dart_101.dart      # Main application
+│   └── dart_essential.dart      # Main application
 ├── lib/                    # Library code and examples
 │   ├── comments/          # Comment examples
 │   ├── control_flows/     # Control structure examples
