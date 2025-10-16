@@ -1,4 +1,4 @@
-# Dart 101 - Essential Dart Learning Project
+# Dart Basic - Essential Dart Learning Project
 
 A comprehensive collection of Dart language examples covering fundamental concepts, control structures, functions, variables, and more. This project is designed to help you learn Dart programming through practical examples.
 
@@ -189,4 +189,5 @@ Feel free to add more examples or improve existing ones. Make sure to:
 ---
 
 **Happy Learning! 🎉**
+
 # Dart-Essential
